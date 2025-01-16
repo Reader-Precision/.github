@@ -1,4 +1,4 @@
-# .github
+# Reader Precision Solutions
 
 ## About
 Reader Precision is leading the industry in our engineered and precision parts, components and solutions. Our clients and industry partners come to us for some of the industry’s most demanding and mission-critical programs. We specialize in American-made, Swiss-type machining, turning and milling with certifications in AS9100:2016, ISO 9001:2015 and ITAR/DDTC, serving clients in the aerospace, medical, dental, defense, firearms, and micro-machining industries.
