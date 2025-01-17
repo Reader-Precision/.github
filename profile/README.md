@@ -19,3 +19,8 @@ As RPS is a rapidly growing organization, new roles are created for continuous i
 ![RychlakR](https://github.com/user-attachments/assets/a53cf26f-3181-4d7b-8238-33eb7de74b7c)
 
 A graduate of computer science and applied math from Stony Brook University. I have experience developing software and data integrations in a plethora of industries. I started my career as an intern here working in IT, and after some time finshing undergrad and other positions I'm happy to be back helping build this team!
+
+### Matt Dowell - Manufacturing & Controls Engineer
+![DowellM](https://github.com/user-attachments/assets/6e51ad52-9f90-49a7-849c-8b025c668551)
+
+I started with Reader Precison Solutions in 2014 on the production side of the business. After earning my BS in Mechanical Engineering, I joined the engineering side where I develop automation solutions in the fields of robotics, machine vision, and general automation.
