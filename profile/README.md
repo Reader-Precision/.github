@@ -26,6 +26,6 @@ A graduate of computer science and applied math from Stony Brook University. I h
 I started with Reader Precison Solutions in 2014 on the production side of the business. After earning my BS in Mechanical Engineering, I joined the engineering side where I develop automation solutions in the fields of robotics, machine vision, and general automation.
 
 ### Isaac Taylor - Engineering Technician
-![20211224_142956](https://github.com/user-attachments/assets/e37fd2d5-b44e-45c5-889d-f241958819ec)
+![20211224_142956](https://github.com/user-attachments/assets/3493a18f-9218-45eb-b7c7-463cc41264fe)
 
 A current student pursuing Mechanical Engineering at the Milwaukee School of Engineering. I have been with the company since 2017 doing whatever I can to help. I have experience operating and setting up a majority of the CNC lathes that we have in house, but specialize in creating programs for the machines. Dabbling in automating some of the more mundane, repetative tasks that I and my coworkers are burdened with.
