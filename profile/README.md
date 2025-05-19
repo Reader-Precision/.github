@@ -18,7 +18,7 @@ As RPS is a rapidly growing organization, new roles are created for continuous i
 ### Ryan Rychlak - Data Solutions Engineer
 ![RychlakR](https://github.com/user-attachments/assets/a53cf26f-3181-4d7b-8238-33eb7de74b7c)
 
-A graduate of computer science and applied math from Stony Brook University. I have experience developing software and data integrations in a plethora of industries. I started my career as an intern here working in IT, and after some time away completing undergrad and other positions I'm happy to be back helping build this team!
+A graduate of computer science and applied math from Stony Brook University. I have experience developing software and data integrations in multiple industries and team sizes. I started my career as an intern here working in IT, and after some time away completing undergrad and other positions/contracts I'm happy to be back helping build this team!
 
 ### Matt Dowell - Manufacturing & Controls Engineer
 ![DowellM](https://github.com/user-attachments/assets/6e51ad52-9f90-49a7-849c-8b025c668551)
