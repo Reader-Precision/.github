@@ -29,3 +29,8 @@ I started with Reader Precison Solutions in 2014 on the production side of the b
 ![20211224_142956](https://github.com/user-attachments/assets/3493a18f-9218-45eb-b7c7-463cc41264fe)
 
 A current student pursuing Mechanical Engineering at the Milwaukee School of Engineering. I have been with the company since 2017 doing whatever I can to help. I have experience operating and setting up a majority of the CNC lathes that we have in house, but specialize in creating programs for the machines. Dabbling in automating some of the more mundane, repetative tasks that I and my coworkers are burdened with.
+
+### Preston Whitcomb - Computer Science Intern
+<img src="https://github.com/user-attachments/assets/82b44030-4ca4-4902-a5e9-18cb08807ca0" alt="Preston Photo" width="200"/>
+
+I'm a current student at the Milwaukee School of Engineering pursuing Computer Science joining the team as an intern. I work closely with Ryan to help improve efficiency and expand to new areas, such as in artificial intelligence and data engineering. Looking to find more ways to help people out through creative solutions.
